@@ -1,0 +1,46 @@
+[
+    {
+        "newsProduct":[
+            {
+                "id" : "1",
+                "title" : "Cánh hoa hồng khô",
+                "releaseDate" : "5/4/2023",
+                "description" : "Cicibath bomb xin trân trọng ra mắt một sản phẩm mới để phục vụ cho nhu cầu của khách quý",
+                "image" : "https://down-vn.img.susercontent.com/file/afed1635e071557939e288008c3f2e65",
+                "body" : " "
+            },
+            {
+                "id" : "2",
+                "title" : "Gel tạo bọt - Sữa tắm tạo bọt",
+                "releaseDate" : "23/4/2023",
+                "description" : "Cicibath bomb xin trân trọng ra mắt một sản phẩm mới để phục vụ cho nhu cầu của khách quý",
+                "image" : "https://down-vn.img.susercontent.com/file/afed1635e071557939e288008c3f2e65"
+                
+            },
+            {
+                "id" : "3",
+                "title" : "Bom tắm kẹo ngọt - Candy Bathbomb",
+                "releaseDate" : "15/4/2023",
+                "description" : "Cicibath bomb xin trân trọng ra mắt một sản phẩm mới để phục vụ cho nhu cầu của khách quý",
+                "image" : "https://down-vn.img.susercontent.com/file/afed1635e071557939e288008c3f2e65"
+            }
+        ],
+
+        "newsSale" :[
+            {
+                "id" : "01",
+                "title" : "Khuyến mãi đại lễ - Sale lên tới 50%",
+                "releaseDate" : "20/4/2023",
+                "description" : "Nhân dịp liên hoàn đại lễ, chúng tôi xin gửi tặng đến quý khách hàng hàng loạt khuyến mãi. Tỉ lệ sale lên đến 50%",
+                "image" : "https://down-vn.img.susercontent.com/file/afed1635e071557939e288008c3f2e65"
+            },
+            {
+                "id" : "02",
+                "title" : "Xả hàng cuối năm - Giáng sinh và Tết Dương Lịch ",
+                "releaseDate" : "25/12/2022",
+                "description" : "Nhân dịp liên hoàn đại lễ, chúng tôi xin gửi tặng đến quý khách hàng hàng loạt khuyến mãi. Tỉ lệ sale lên đến 50%",
+                "image" : "https://down-vn.img.susercontent.com/file/afed1635e071557939e288008c3f2e65"
+            }
+        ]
+    }
+]

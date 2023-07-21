@@ -1,0 +1,238 @@
+[
+    {
+        "id": "1",
+        "productName": "Bom tắm Hoa Lài",
+        "img": "https://down-vn.img.susercontent.com/file/07b6510df71ec47656d6a9083f652bf0",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/82b9fb9119eccd7d64a1b2f07b55f6f8",
+            "https://down-vn.img.susercontent.com/file/vn-11134201-23030-f8sjybqkubov69",
+            "https://down-vn.img.susercontent.com/file/f0e61703b00aad5fed71e70e0be93a09",
+            "https://down-vn.img.susercontent.com/file/701583376674cdae77335eeff9728b05",
+            "https://down-vn.img.susercontent.com/file/2cd32cd93a84be573eea1f8aff3fa12d",
+            "https://down-vn.img.susercontent.com/file/8f8e31e9678175cd6d98bfe6f72bf48f",
+            "https://down-vn.img.susercontent.com/file/3ed3e0d8829dc30122097c4ee54ecd95"
+        ],
+        "price": 45000,
+        "weight": 150,
+        "sold": 624,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm hoa lài thật tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "2",
+        "productName": "Bom tắm Hoa Hồng",
+        "img": "https://down-vn.img.susercontent.com/file/1463c6fbef2f433a816253d71d5fb1e7",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/sg-11134201-22110-jp92lvqxlekv1e",
+            "https://down-vn.img.susercontent.com/file/009b48a8be0ce6730d096ed51fe6d131",
+            "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lg0ffhflptkn22",
+            "https://down-vn.img.susercontent.com/file/d931f37a0acd21807e7340f8f8d65d68",
+            "https://down-vn.img.susercontent.com/file/aaccd7737b05259024c3e64f4082a88d",
+            "https://down-vn.img.susercontent.com/file/3d188e53efa44563906b67ac48357a64",
+            "https://down-vn.img.susercontent.com/file/00310e25d965097795589c12ba77f668",
+            "https://down-vn.img.susercontent.com/file/dea3ece5f35b36a09fc98e60ad63ee7e"
+        ],
+        "price": 70000,
+        "weight": 150,
+        "sold": 854,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm hoa hồng tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "3",
+        "productName": "Bom tắm Hoa Oải Hương",
+        "img": "https://down-vn.img.susercontent.com/file/4f05883ac381dfa4d8e22f0799689215",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/sg-11134201-22110-vek07syxcekv01",
+            "https://down-vn.img.susercontent.com/file/sg-11134201-22110-l08q9nitlekv00",
+            "https://down-vn.img.susercontent.com/file/3c6ec67f97b43e89b70bae9aa5fb0b02",
+            "https://down-vn.img.susercontent.com/file/88d28c0139a79f60093c01e2e4722dde",
+            "https://down-vn.img.susercontent.com/file/6b111a02b3696d1ef3b4285dc9a5b8b9",
+            "https://down-vn.img.susercontent.com/file/57f7434b4f1d2eb392a0c09e259001dc",
+            "https://down-vn.img.susercontent.com/file/a28d4e0935f9a9f02e3b4e28b132ba71",
+            "https://down-vn.img.susercontent.com/file/2f3b3b9f44f054e80dda458c5c7756bb"
+        ],
+        "price": 40000,
+        "weight": 150,
+        "sold": 6454,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Oải tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "4",
+        "productName": "Bom tắm Cherry",
+        "img": "https://down-vn.img.susercontent.com/file/6b75ebedc611c1f50372cdc696a7e9b8",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/4e93333bcb44ee581354c7d7d266693f",
+            "https://down-vn.img.susercontent.com/file/3830cc8bf82f2897583178922a91030b",
+            "https://down-vn.img.susercontent.com/file/113745f0c48c0cf6187d782314887a1b"
+        ],
+        "price": 80000,
+        "weight": 347,
+        "sold": 654,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Chery tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "5",
+        "productName": "Bom tắm Vani",
+        "img": "https://down-vn.img.susercontent.com/file/1a78cdc8cb881c4df6189e69d4cbeb44",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/1b0bd9a79bb21cda7a1e1010a8726f24",
+            "https://down-vn.img.susercontent.com/file/d1b9044fb68bc2ddaffebfa5f6a9ea31",
+            "https://down-vn.img.susercontent.com/file/3ff1486c778ec3dfaba3d408f13836fc",
+            "https://down-vn.img.susercontent.com/file/3480f4e2299dc54004a807f5dd97c151"
+        ],
+        "price": 30000,
+        "weight": 150,
+        "sold": 876,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Vani tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "6",
+        "productName": "Bom tắm Việt Quất",
+        "img": "https://down-vn.img.susercontent.com/file/b81ae3e601cd8ff28d1b1da7c87bbcfc",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/23a18dee86c072fb89a428ae9e58ae05",
+            "https://down-vn.img.susercontent.com/file/b0e2d7336a103ea472b3661a54b52ccd",
+            "https://down-vn.img.susercontent.com/file/5c1de4d4bcb2cfdb9b0dd4f2eb5e57c6",
+            "https://down-vn.img.susercontent.com/file/ab3ad581ca0709cfc4f4347c2d2b164a",
+            "https://down-vn.img.susercontent.com/file/515d8d466559905387991e42df93aff8",
+            "https://down-vn.img.susercontent.com/file/14a588a2ca4742593dfbf64d8bbb8af3",
+            "https://down-vn.img.susercontent.com/file/67877d654fe25634afaee785d9ee70f5"
+        ],
+        "price": 56000,
+        "weight": 150,
+        "sold": 234,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Việt Quất tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "7",
+        "productName": "Bom tắm Cam",
+        "img": "https://down-vn.img.susercontent.com/file/9a98b31a399b446b536dfd1d92e9b7bd",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/87360f25ba0b53ecbec3db57657f67df",
+            "https://down-vn.img.susercontent.com/file/90382b38abed84840f96b4950b0d0c93"
+        ],
+        "price": 73000,
+        "weight": 150,
+        "sold": 953,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Cam tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "8",
+        "productName": "Bom tắm Bạc Hà",
+        "img": "https://down-vn.img.susercontent.com/file/f00a0ec544de24b8559d2d02aa6a163d",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/sg-11134201-22110-m1rzaefycekv92",
+            "https://down-vn.img.susercontent.com/file/a58cc1824b62dcde66046579587cd74b",
+            "https://down-vn.img.susercontent.com/file/f9ab529067be316dc4a895cdf4187bb4",
+            "https://down-vn.img.susercontent.com/file/6802d4e962b703afeecb060b7cc0579c",
+            "https://down-vn.img.susercontent.com/file/0d74ade33f0ac6e7ec4aa174d8398268",
+            "https://down-vn.img.susercontent.com/file/e2488e2686af44ad81c7aa940f77d8a5",
+            "https://down-vn.img.susercontent.com/file/598712a99560ea5ef25a8a5e0a4ab769",
+            "https://down-vn.img.susercontent.com/file/799b69e1cca272948ff0420af8ba57fe",
+            "https://down-vn.img.susercontent.com/file/aa25c3c901102767f1ff1a92cd12898a"
+        ],
+        "price": 25000,
+        "weight": 150,
+        "sold": 664,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Bạc hà tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "9",
+        "productName": "Bom tắm Kiwi",
+        "img": "https://down-vn.img.susercontent.com/file/34a145d489f9cbb0dc730696a93b5f95",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/f9ab529067be316dc4a895cdf4187bb4",
+            "https://down-vn.img.susercontent.com/file/6802d4e962b703afeecb060b7cc0579c",
+            "https://down-vn.img.susercontent.com/file/0d74ade33f0ac6e7ec4aa174d8398268"
+        ],
+        "price": 37000,
+        "weight": 150,
+        "sold": 14,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Kiwi tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "10",
+        "productName": "Muối tắm",
+        "img": "https://down-vn.img.susercontent.com/file/b1c7571495515d97d3a3b582b0cc329d",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/3b9714b76b0d140a8dcf0e5ae9f173fc",
+            "https://down-vn.img.susercontent.com/file/93fcf3be2f0442692cabee675691ce06",
+            "https://down-vn.img.susercontent.com/file/3e54359fdb77da3ce05d47fa764cea65",
+            "https://down-vn.img.susercontent.com/file/b1c7571495515d97d3a3b582b0cc329d",
+            "https://down-vn.img.susercontent.com/file/sg-11134201-22100-t7xyh3cabniveb"
+        ],
+        "price": 16000,
+        "weight": 150,
+        "sold": 1477,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Kiwi tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    },
+    {
+        "id": "11",
+        "productName": "Gel tạo bọt",
+        "img": "https://down-vn.img.susercontent.com/file/287d4fb31cbc1552586e437fc7a69e1e",
+        "slider": [
+            "https://down-vn.img.susercontent.com/file/287d4fb31cbc1552586e437fc7a69e1e",
+            "https://down-vn.img.susercontent.com/file/vn-11134201-23030-pkrtge4iubov9c",
+            "https://down-vn.img.susercontent.com/file/dc9ef12c6a8bd524443faec3afadea84",
+            "https://down-vn.img.susercontent.com/file/5b7ef5ecc34653a8cd60ba9500d88cfa"
+        ],
+        "price": 39000,
+        "weight": 150,
+        "sold": 655,
+        "star": 4.5,
+        "comment": [
+            "Bom tắm Kiwi tuyệt vời",
+            "Đáng để mua",
+            "Sản phẩm ngoài mong đợi."
+        ]
+    }
+]
